@@ -4,4 +4,4 @@ Getting started with Git and Github
 Consistency >>
 
 ## sub header
-trial
+git usage trial
