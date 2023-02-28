@@ -3,5 +3,5 @@ Getting started with Git and Github
 #CODE2023.
 Consistency >>
 
-## syb header
+## sub header
 trial
